@@ -2,9 +2,9 @@
 
 # First Assignment
 
-## Exercise 1: Data exploration using Spark
-## Exercise 2: Spark streaming
-## Exercise 3: More data exploration
+### Exercise 1: Data exploration using Spark
+### Exercise 2: Spark streaming
+### Exercise 3: More data exploration
 
 In general, this assignment was about learning how to use Spark for big data
 processing. It includes 3 exercises from which the 1 st and the 3 rd involved data
