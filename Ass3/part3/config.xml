@@ -1,0 +1,9 @@
+<configuration>
+	<refFolder>/data/spark/ref</refFolder>
+	<toolsFolder>/data/spark/tools</toolsFolder>
+	<tmpFolder>/home/vmilias/part3/data/tmp</tmpFolder> <!-- Use something like /data/yourusername. Never use a shared dir -->
+	<inputFolder>/user/vmilias/output </inputFolder>  <!--    /home/vmilias/data/output -->
+	<outputFolder>/user/vmilias/newoutput</outputFolder> 
+	<numInstances>4</numInstances>
+	<numThreads>4</numThreads>
+</configuration>
