@@ -3,6 +3,8 @@
 # First Assignment
 
 ## Exercise 1: Data exploration using Spark
+## Exercise 2: Spark streaming
+## Exercise 3: More data exploration
 
 In general, this assignment was about learning how to use Spark for big data
 processing. It includes 3 exercises from which the 1 st and the 3 rd involved data
@@ -11,7 +13,7 @@ based stream processing application.
 To solve this exercises I had to familiarize myself with the spark commands, the
 concepts of RDDs and DStreams and with the Scala programming language.
 
-## Exercise 2: Spark streaming
+# Second Assignment
 The task of this assignment was to identify the actors linked to Kevin Bacon by
 the six degrees of separation. Two lists were given, one with the actors and
 another one with the actresses. Those lists also included all of the movies and
@@ -26,8 +28,7 @@ cache and the way it operates, to learn how to use SparkListener and to
 experiment with different solving methods to find the most efficient way to deal
 with each sub-task.
 
-## Exercise 3: More data exploration
-
+# Third Assignment
 This assignment was about replacing the regular GATK pipeline with a distributed
 Spark version. It is divided in three parts:
 Part 1: Chunking the input Fastq files
