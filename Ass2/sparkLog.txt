@@ -1,0 +1,897 @@
+[11:51:10] MapPartitionsRDD processed!
+[11:51:10] MapPartitionsRDD processed!
+[11:51:10] mod_actors.list processed!
+[11:51:10] rdd_actorsIds processed!
+[11:51:10] MapPartitionsRDD processed!
+[11:51:10] MapPartitionsRDD processed!
+[11:51:10] UnionRDD processed!
+[11:51:10] rdd_actorListOfMovies processed!
+[11:51:10] rdd_actressListOfMovies processed!
+[11:51:10] mod_actresses.list processed!
+[11:51:10] rdd_actorsMovies processed!
+[11:51:25]  rdd rdd_movieActor: memsize = 635MB, rdd diskSize 0, numPartitions = 56
+[11:51:25] mod_actors.list processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] UnionRDD processed!
+[11:51:25] rdd_actorListOfMovies processed!
+[11:51:25] rdd_actressListOfMovies processed!
+[11:51:25] mod_actresses.list processed!
+[11:51:25] rdd_actorsMovies processed!
+[11:51:25] rdd_movieActor processed!
+[11:51:25] mod_actors.list processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] MapPartitionsRDD processed!
+[11:51:25] UnionRDD processed!
+[11:51:25] rdd_actorListOfMovies processed!
+[11:51:25] rdd_actressListOfMovies processed!
+[11:51:25] mod_actresses.list processed!
+[11:51:25] rdd_actorsMovies processed!
+[11:51:55] VertexRDD.createRoutingTables - vid2pid (aggregation) processed!
+[11:51:55] CoGroupedRDD processed!
+[11:51:55] MapPartitionsRDD processed!
+[11:51:55] rdd_actorActor processed!
+[11:51:55]  rdd EdgeRDD, EdgeRDD: memsize = 1185MB, rdd diskSize 0, numPartitions = 56
+[11:51:55] rdd_edges processed!
+[11:51:55] MapPartitionsRDD processed!
+[11:51:56] ReplicatedVertexView.updateVertices - shippedVerts false false (broadcast) processed!
+[11:51:56] VertexRDD processed!
+[11:51:56] VertexRDD processed!
+[11:51:56] VertexRDD processed!
+[11:51:56] MapPartitionsRDD processed!
+[11:51:56] ShuffledRDD processed!
+[11:51:56] VertexRDD, VertexRDD processed!
+[11:51:56] ReplicatedVertexView.upgrade(true, true) - shippedVerts true true (broadcast) processed!
+[11:51:56]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:51:56]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:51:56] MapPartitionsRDD processed!
+[11:51:56] ShuffledRDD processed!
+[11:51:56] VertexRDD, VertexRDD processed!
+[11:52:15] GraphImpl.aggregateMessages - preAgg processed!
+[11:52:15] CoGroupedRDD processed!
+[11:52:15] ShuffledRDD processed!
+[11:52:15] ShuffledRDD processed!
+[11:52:15] MapPartitionsRDD processed!
+[11:52:15] rdd_actorActor processed!
+[11:52:15]  rdd EdgeRDD: memsize = 900MB, rdd diskSize 0, numPartitions = 56
+[11:52:15] EdgeRDD, EdgeRDD processed!
+[11:52:15] rdd_edges processed!
+[11:52:15]  rdd EdgeRDD: memsize = 882MB, rdd diskSize 0, numPartitions = 56
+[11:52:15] MapPartitionsRDD processed!
+[11:52:15] EdgeRDD processed!
+[11:52:16] MapPartitionsRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] ShuffledRDD processed!
+[11:52:16] MapPartitionsRDD processed!
+[11:52:16] ShuffledRDD processed!
+[11:52:16] VertexRDD, VertexRDD processed!
+[11:52:16] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] VertexRDD processed!
+[11:52:16] ShuffledRDD processed!
+[11:52:16]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:52:16] MapPartitionsRDD processed!
+[11:52:16] ShuffledRDD processed!
+[11:52:16] VertexRDD, VertexRDD processed!
+[11:52:17] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:52:17] VertexRDD processed!
+[11:52:17] VertexRDD processed!
+[11:52:17] VertexRDD processed!
+[11:52:17] ShuffledRDD processed!
+[11:52:17] MapPartitionsRDD processed!
+[11:52:17] ShuffledRDD processed!
+[11:52:17] VertexRDD, VertexRDD processed!
+[11:52:23] GraphImpl.aggregateMessages - preAgg processed!
+[11:52:23] CoGroupedRDD processed!
+[11:52:23] ShuffledRDD processed!
+[11:52:23] MapPartitionsRDD processed!
+[11:52:23] ShuffledRDD processed!
+[11:52:23] rdd_actorActor processed!
+[11:52:23] EdgeRDD, EdgeRDD processed!
+[11:52:23] EdgeRDD processed!
+[11:52:23] MapPartitionsRDD processed!
+[11:52:23] EdgeRDD processed!
+[11:52:23] ShuffledRDD processed!
+[11:52:23]  rdd EdgeRDD: memsize = 967MB, rdd diskSize 0, numPartitions = 56
+[11:52:23] ShuffledRDD processed!
+[11:52:23] EdgeRDD processed!
+[11:52:23] rdd_edges processed!
+[11:52:23] EdgeRDD processed!
+[11:52:24] MapPartitionsRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24]  rdd VertexRDD: memsize = 67MB, rdd diskSize 0, numPartitions = 56
+[11:52:24] MapPartitionsRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] VertexRDD, VertexRDD processed!
+[11:52:24] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] VertexRDD processed!
+[11:52:24] MapPartitionsRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] ShuffledRDD processed!
+[11:52:24] VertexRDD, VertexRDD processed!
+[11:52:24]  rdd VertexRDD: memsize = 65MB, rdd diskSize 0, numPartitions = 56
+[11:52:25] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:52:25] VertexRDD processed!
+[11:52:25] VertexRDD processed!
+[11:52:25] VertexRDD processed!
+[11:52:25] ShuffledRDD processed!
+[11:52:25] VertexRDD processed!
+[11:52:25] VertexRDD processed!
+[11:52:25] MapPartitionsRDD processed!
+[11:52:25] ShuffledRDD processed!
+[11:52:25] ShuffledRDD processed!
+[11:52:25] VertexRDD, VertexRDD processed!
+[11:52:41] GraphImpl.aggregateMessages - preAgg processed!
+[11:52:41] CoGroupedRDD processed!
+[11:52:41] ShuffledRDD processed!
+[11:52:41]  rdd EdgeRDD: memsize = 1006MB, rdd diskSize 0, numPartitions = 56
+[11:52:41] MapPartitionsRDD processed!
+[11:52:41] ShuffledRDD processed!
+[11:52:41] rdd_actorActor processed!
+[11:52:41] EdgeRDD, EdgeRDD processed!
+[11:52:41] ShuffledRDD processed!
+[11:52:41] MapPartitionsRDD processed!
+[11:52:41] EdgeRDD processed!
+[11:52:41] ShuffledRDD processed!
+[11:52:41] EdgeRDD processed!
+[11:52:41] ShuffledRDD processed!
+[11:52:41] EdgeRDD processed!
+[11:52:41] rdd_edges processed!
+[11:52:41] EdgeRDD processed!
+[11:52:41] EdgeRDD processed!
+[11:52:42] MapPartitionsRDD processed!
+[11:52:42]  rdd VertexRDD: memsize = 98MB, rdd diskSize 0, numPartitions = 56
+[11:52:42] VertexRDD processed!
+[11:52:42] VertexRDD processed!
+[11:52:42] VertexRDD processed!
+[11:52:42] ShuffledRDD processed!
+[11:52:42] VertexRDD processed!
+[11:52:42] VertexRDD processed!
+[11:52:42] MapPartitionsRDD processed!
+[11:52:42] ShuffledRDD processed!
+[11:52:42] ShuffledRDD processed!
+[11:52:42] VertexRDD, VertexRDD processed!
+[11:52:42] ShuffledRDD processed!
+[11:52:42] VertexRDD processed!
+[11:52:43] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD, VertexRDD processed!
+[11:52:43]  rdd VertexRDD: memsize = 100MB, rdd diskSize 0, numPartitions = 56
+[11:52:43] VertexRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] MapPartitionsRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:43] MapPartitionsRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD, VertexRDD processed!
+[11:52:43] ShuffledRDD processed!
+[11:52:43] VertexRDD processed!
+[11:52:59] GraphImpl.aggregateMessages - preAgg processed!
+[11:52:59] CoGroupedRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59] MapPartitionsRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] rdd_actorActor processed!
+[11:52:59] EdgeRDD, EdgeRDD processed!
+[11:52:59] MapPartitionsRDD processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59] ShuffledRDD processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59] rdd_edges processed!
+[11:52:59] EdgeRDD processed!
+[11:52:59]  rdd EdgeRDD: memsize = 957MB, rdd diskSize 0, numPartitions = 56
+[11:53:00] MapPartitionsRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD, VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00]  rdd VertexRDD: memsize = 69MB, rdd diskSize 0, numPartitions = 56
+[11:53:00] MapPartitionsRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD, VertexRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00]  rdd VertexRDD: memsize = 111MB, rdd diskSize 0, numPartitions = 56
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:00] MapPartitionsRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] ShuffledRDD processed!
+[11:53:00] VertexRDD processed!
+[11:53:01] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] ShuffledRDD processed!
+[11:53:01] VertexRDD, VertexRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] ShuffledRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] ShuffledRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:01] MapPartitionsRDD processed!
+[11:53:01] ShuffledRDD processed!
+[11:53:01] ShuffledRDD processed!
+[11:53:01] VertexRDD processed!
+[11:53:11] GraphImpl.aggregateMessages - preAgg processed!
+[11:53:11] CoGroupedRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11]  rdd EdgeRDD: memsize = 847MB, rdd diskSize 0, numPartitions = 56
+[11:53:11] EdgeRDD processed!
+[11:53:11] EdgeRDD processed!
+[11:53:11] MapPartitionsRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] rdd_actorActor processed!
+[11:53:11] EdgeRDD, EdgeRDD processed!
+[11:53:11] MapPartitionsRDD processed!
+[11:53:11] EdgeRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] EdgeRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] ShuffledRDD processed!
+[11:53:11] EdgeRDD processed!
+[11:53:11] rdd_edges processed!
+[11:53:11] EdgeRDD processed!
+[11:53:11] EdgeRDD processed!
+[11:53:13] MapPartitionsRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD, VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13]  rdd VertexRDD: memsize = 58MB, rdd diskSize 0, numPartitions = 56
+[11:53:13] VertexRDD processed!
+[11:53:13] MapPartitionsRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD, VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:13]  rdd VertexRDD: memsize = 113MB, rdd diskSize 0, numPartitions = 56
+[11:53:13] MapPartitionsRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] ShuffledRDD processed!
+[11:53:13] VertexRDD processed!
+[11:53:14] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] VertexRDD, VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:14] MapPartitionsRDD processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] ShuffledRDD processed!
+[11:53:14] VertexRDD processed!
+[11:53:25] GraphImpl.aggregateMessages - preAgg processed!
+[11:53:25] CoGroupedRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25] MapPartitionsRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] rdd_actorActor processed!
+[11:53:25] EdgeRDD, EdgeRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] MapPartitionsRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] ShuffledRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25]  rdd EdgeRDD: memsize = 717MB, rdd diskSize 0, numPartitions = 56
+[11:53:25] EdgeRDD processed!
+[11:53:25] rdd_edges processed!
+[11:53:25] EdgeRDD processed!
+[11:53:25] EdgeRDD processed!
+[11:53:29] MapPartitionsRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD, VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] MapPartitionsRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29]  rdd VertexRDD: memsize = 113MB, rdd diskSize 0, numPartitions = 56
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD, VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] MapPartitionsRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD, VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:29] MapPartitionsRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] ShuffledRDD processed!
+[11:53:29] VertexRDD processed!
+[11:53:40] GraphImpl.aggregateMessages - preAgg processed!
+[11:53:40] CoGroupedRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] MapPartitionsRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] rdd_actorActor processed!
+[11:53:40] EdgeRDD, EdgeRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] MapPartitionsRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40]  rdd EdgeRDD: memsize = 731MB, rdd diskSize 0, numPartitions = 56
+[11:53:40] EdgeRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] ShuffledRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] rdd_edges processed!
+[11:53:40] EdgeRDD processed!
+[11:53:40] EdgeRDD processed!
+[11:53:46] MapPartitionsRDD processed!
+[11:53:46]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD, VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] MapPartitionsRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD, VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46]  rdd VertexRDD: memsize = 113MB, rdd diskSize 0, numPartitions = 56
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:46] MapPartitionsRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] ShuffledRDD processed!
+[11:53:46] VertexRDD processed!
+[11:53:47] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD, VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:47] MapPartitionsRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] ShuffledRDD processed!
+[11:53:47] VertexRDD processed!
+[11:53:56] GraphImpl.aggregateMessages - preAgg processed!
+[11:53:56] CoGroupedRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] MapPartitionsRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] rdd_actorActor processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] EdgeRDD, EdgeRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] MapPartitionsRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56]  rdd EdgeRDD: memsize = 716MB, rdd diskSize 0, numPartitions = 56
+[11:53:56] EdgeRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] rdd_edges processed!
+[11:53:56] ShuffledRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:53:56] EdgeRDD processed!
+[11:54:08] MapPartitionsRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD, VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] MapPartitionsRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:54:08] VertexRDD processed!
+[11:54:08] ReplicatedVertexView.updateVertices - shippedVerts true true (broadcast) processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD, VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] MapPartitionsRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08]  rdd VertexRDD: memsize = 113MB, rdd diskSize 0, numPartitions = 56
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ReplicatedVertexView.withActiveSet - shippedActives (broadcast) processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD, VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] MapPartitionsRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] ShuffledRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:08] VertexRDD processed!
+[11:54:19] GraphImpl.aggregateMessages - preAgg processed!
+[11:54:19] CoGroupedRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] MapPartitionsRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] rdd_actorActor processed!
+[11:54:19]  rdd EdgeRDD: memsize = 730MB, rdd diskSize 0, numPartitions = 56
+[11:54:19] MapPartitionsRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD, EdgeRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] ShuffledRDD processed!
+[11:54:19] EdgeRDD processed!
+[11:54:19] rdd_edges processed!
+[11:54:41] MapPartitionsRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD, VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] MapPartitionsRDD processed!
+[11:54:41]  rdd VertexRDD: memsize = 57MB, rdd diskSize 0, numPartitions = 56
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] ShuffledRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:41] VertexRDD processed!
+[11:54:56] rdd_movieActor processed!
+[11:54:56] mod_actors.list processed!
+[11:54:56] MapPartitionsRDD processed!
+[11:54:56] MapPartitionsRDD processed!
+[11:54:56] MapPartitionsRDD processed!
+[11:54:56] UnionRDD processed!
+[11:54:56] rdd_actorListOfMovies processed!
+[11:54:56] rdd_actressListOfMovies processed!
+[11:54:56] mod_actresses.list processed!
+[11:54:56] rdd_actorsMovies processed!
+[11:54:57] ShuffledRDD processed!
+[11:54:58] MapPartitionsRDD processed!
+[11:54:58] MapPartitionsRDD processed!
+[11:54:58] mod_actors.list processed!
+[11:54:58] MapPartitionsRDD processed!
+[11:54:58] MapPartitionsRDD processed!
+[11:54:58] MapPartitionsRDD processed!
+[11:54:58] UnionRDD processed!
+[11:54:58] rdd_actorListOfMovies processed!
+[11:54:58] rdd_actressListOfMovies processed!
+[11:54:58] mod_actresses.list processed!
+[11:54:58] rdd_actorsMovies processed!
+[11:54:58] rdd_movieActor processed!
+[11:55:00]  rdd rdd_idActors: memsize = 246MB, rdd diskSize 0, numPartitions = 56
+[11:55:00] ShuffledRDD processed!
+[11:55:00] MapPartitionsRDD processed!
+[11:55:00] ShuffledRDD processed!
+[11:55:00] rdd_idActors processed!
+[11:55:00] MapPartitionsRDD processed!
+[11:55:00] ShuffledRDD processed!
+[11:55:00] rdd_idActors processed!
+[11:55:00] rdd_idActors processed!
+[11:55:00] ShuffledRDD processed!
+[11:55:01] rdd_mapping processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDDImpl processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD, VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] MapPartitionsRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] MapPartitionsRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] ShuffledRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:01] VertexRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04]  rdd rdd_results: memsize = 278MB, rdd diskSize 0, numPartitions = 56
+[11:55:04]  rdd rdd_rDDMales: memsize = 181MB, rdd diskSize 0, numPartitions = 56
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04]  rdd rdd_rDDFemales: memsize = 97MB, rdd diskSize 0, numPartitions = 56
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] rdd_rDDMales processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_rDDFemales processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] rdd_rDDMales processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_rDDFemales processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] rdd_rDDMales processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_rDDFemales processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] rdd_rDDMales processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_rDDFemales processed!
+[11:55:04] MapPartitionsRDD processed!
+[11:55:04] rdd_results processed!
+[11:55:04] CoGroupedRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] rdd_results processed!
+[11:55:05] rdd_rDDMales processed!
+[11:55:05] CoGroupedRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] rdd_rDDFemales processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] rdd_results processed!
+[11:55:05] CoGroupedRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] rdd_results processed!
+[11:55:05] rdd_rDDMales processed!
+[11:55:05] CoGroupedRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:05] rdd_results processed!
+[11:55:05] rdd_rDDMales processed!
+[11:55:05] CoGroupedRDD processed!
+[11:55:05] MapPartitionsRDD processed!
+[11:55:06] MapPartitionsRDD processed!
+[11:55:06] ShuffledRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] rdd_rDDFemales processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] rdd_results processed!
+[11:55:08] CoGroupedRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] rdd_rDDFemales processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] MapPartitionsRDD processed!
+[11:55:08] rdd_results processed!
+[11:55:08] CoGroupedRDD processed!
+[11:55:09] MapPartitionsRDD processed!
+[11:55:09] ShuffledRDD processed!
